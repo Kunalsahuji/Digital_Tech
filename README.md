@@ -7,10 +7,10 @@ Welcome to **Digital Tech**, a sleek and responsive animated landing page built 
 ## 📸 Website Preview
 
 ### 💻 Desktop View
-[![Desktop.png](https://i.postimg.cc/FsJKr4Gh/Desktop.png)](https://postimg.cc/Tpfx0BZs)
+[![IMG-20250618-WA0004.jpg](https://i.postimg.cc/c1BC0W9z/IMG-20250618-WA0004.jpg)](https://postimg.cc/mhhByvG3) 
 
 ### 📱 Mobile View
-[![Mobile.jpg](https://i.postimg.cc/9FTqxT6P/Mobile.jpg)](https://postimg.cc/JGrn0y4t)
+[![1000960121.jpg](https://i.postimg.cc/qqGyfCSB/1000960121.jpg)](https://postimg.cc/Cnzzkdw9) 
 
 ---
 
